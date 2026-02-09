@@ -29,7 +29,7 @@ src/main/java/com/bernardo/loja
 ├── model         # Modelos de domínio
 ├── Menu.java     # Interface de interação via terminal
 └── Main.java     # Ponto de entrada da aplicação
-```
+
 Banco de Dados
 sql
 Copiar código
