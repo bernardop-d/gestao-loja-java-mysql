@@ -14,12 +14,14 @@ Projeto de estudo em Java com integração ao MySQL, simulando um cenário real 
 - MySQL  
 - JDBC  
 
+```plaintext
 src/main/java/com/bernardo/loja
 ├── config        # Conexão com banco de dados
 ├── dao           # Acesso a dados (ProdutoDAO, VendaDAO)
 ├── model         # Modelos de domínio
 ├── Menu.java     # Interface de interação via terminal
 └── Main.java     # Ponto de entrada da aplicação
+
 
 
 pgsql
