@@ -75,3 +75,10 @@ mvn exec:java -Dexec.mainClass="com.bernardo.loja.Main"
 
 Este projeto foi desenvolvido com foco em aprendizado prático de back-end em Java e persistência de dados com MySQL.
 
+## Exemplo de uso
+Ao rodar o sistema:
+
+- Selecione a opção 1 para cadastrar um produto
+- Insira nome, descrição, preço e estoque
+- Selecione 2 para listar os produtos cadastrados
+- Selecione 3 para registrar uma venda
