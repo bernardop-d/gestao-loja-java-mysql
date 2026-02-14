@@ -1,7 +1,6 @@
 # Sistema de Gestão de Loja (Java + MySQL)
 
 Projeto em Java com integração ao MySQL, simulando um cenário real de gestão de produtos, controle de estoque e registro de vendas.  
-O foco foi praticar organização em camadas, acesso a dados com JDBC e regras básicas de negócio.
 
 ---
 
